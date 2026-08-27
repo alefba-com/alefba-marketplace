@@ -1,6 +1,6 @@
 # 🚀 ALEFBA Marketplace
 
-Welcome to **ALEFBA** — a European AI-powered online marketplace connecting buyers and sellers across the continent.
+Welcome to **ALEFBA** — AI-Powered Online Marketplace
 
 ---
 
