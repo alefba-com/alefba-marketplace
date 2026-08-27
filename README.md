@@ -1,37 +1,65 @@
-# ALEFBA
+# 🚀 ALEFBA Marketplace
 
-ALEFBA is a European marketplace platform connecting buyers and sellers with secure payments, escrow protection, and modern e-commerce infrastructure.
+Welcome to **ALEFBA** — a European AI-powered online marketplace connecting buyers and sellers across the continent.
 
-## 🚀 Features
+---
 
-- Multi-vendor marketplace
-- Stripe Connect integration
-- Escrow-based payment system
-- Seller onboarding system
-- Gift cards & discounts
-- Brevo transactional emails
+## 🌍 About ALEFBA
+
+ALEFBA is a modern multi-vendor marketplace focused on:
+
+- Secure payments (Stripe Connect)
+- Escrow-based transactions
+- Seller & buyer protection
+- Transparent, seller-friendly commission structure
+
+---
 
 ## 💳 Payment System
 
-- 0% commission for first 3 months
-- 5% commission after 3 months
-- Service Fee: €1.99
-- Tax Handling Fee: €0.50
-- Payment Processing Fee: 1% + €0.25
+- Escrow protection on every transaction
+- Automatic & manual payout options
+- Competitive, transparent commission structure — contact us for current seller rates
 
-## 🔐 Payment Protection
+---
 
-- Funds held until delivery confirmation
-- Auto-release after 24h (or 3 days if no confirmation)
-- Dispute system with ALEFBA review
+## 🔐 Buyer Protection
 
-## 🛠 Tech Stack
+- Funds released only after delivery confirmation
+- Automatic release window to keep transactions moving
+- Dispute resolution with manual review
+
+---
+
+## 🧩 Services
+
+- Boost & highlight listings
+- Advertising system for sellers
+- Pro seller accounts
+- Seller verification
+- Gift cards & discounts
+
+---
+
+## ⚙️ Tech Stack
 
 - PHP
 - MySQL
-- Stripe
-- Revolut
-- Brevo
-- JavaScript
+- Modern payment infrastructure
 
-## 📦 Project Structure
+---
+
+## 📬 Contact
+
+📧 info@alefba.eu
+🌐 https://alefba.eu
+
+---
+
+## 🤝 Collaboration
+
+We are open to partnerships and contributors.
+
+---
+
+✨ Building the future of trusted online marketplaces.
